@@ -1,0 +1,22 @@
+[
+  { "title": "Getting Started with Django", "content": "Django is a powerful web framework that allows developers to build secure and scalable applications quickly. Understanding its MTV architecture is the first step.", "user_id": 1 },
+  { "title": "Why Python is محبوب Among Developers", "content": "Python’s simplicity and readability make it a favorite choice for beginners and professionals alike. It is widely used in web development, AI, and automation.", "user_id": 2 },
+  { "title": "Understanding REST APIs", "content": "REST APIs enable communication between different systems over HTTP. Learning how to design clean APIs is essential for modern web development.", "user_id": 1 },
+  { "title": "Database Optimization Tips", "content": "Efficient database queries can drastically improve performance. Use indexing, avoid unnecessary joins, and optimize your ORM usage.", "user_id": 2 },
+  { "title": "Frontend vs Backend Development", "content": "Frontend focuses on user interface, while backend handles logic and data. Both are essential for building complete applications.", "user_id": 1 },
+  { "title": "Importance of Clean Code", "content": "Writing clean and maintainable code helps teams collaborate better and reduces bugs in the long run.", "user_id": 2 },
+  { "title": "Version Control with Git", "content": "Git allows developers to track changes, collaborate with teams, and manage code efficiently using repositories.", "user_id": 1 },
+  { "title": "Introduction to Machine Learning", "content": "Machine learning enables systems to learn from data. It is widely used in recommendation systems, predictions, and automation.", "user_id": 2 },
+  { "title": "Debugging Like a Pro", "content": "Debugging is an essential skill. Understanding error messages and using tools like breakpoints can save a lot of time.", "user_id": 1 },
+  { "title": "Building Secure Applications", "content": "Security should always be a priority. Protect against SQL injection, XSS, and CSRF attacks in your applications.", "user_id": 2 },
+  { "title": "Introduction to Cloud Computing", "content": "Cloud platforms provide scalable infrastructure, allowing developers to deploy applications globally with ease.", "user_id": 1 },
+  { "title": "The Power of Open Source", "content": "Open source software encourages collaboration and innovation. Developers can learn, contribute, and grow together.", "user_id": 2 },
+  { "title": "Time Management for Developers", "content": "Managing time effectively helps developers stay productive. Break tasks into smaller goals and avoid distractions.", "user_id": 1 },
+  { "title": "Learning Data Structures", "content": "Data structures like arrays, linked lists, and trees are fundamental for solving complex problems efficiently.", "user_id": 2 },
+  { "title": "Web Development Trends in 2026", "content": "Modern web development focuses on performance, accessibility, and user experience with frameworks like React and Django.", "user_id": 1 },
+  { "title": "Understanding APIs in Django", "content": "Django REST Framework simplifies building APIs. It provides tools for serialization, authentication, and routing.", "user_id": 2 },
+  { "title": "Importance of Testing", "content": "Testing ensures that your application works as expected and helps catch bugs early in development.", "user_id": 1 },
+  { "title": "Introduction to DevOps", "content": "DevOps bridges the gap between development and operations, enabling faster and more reliable deployments.", "user_id": 2 },
+  { "title": "Improving Code Performance", "content": "Optimizing algorithms and reducing unnecessary computations can significantly improve application speed.", "user_id": 1 },
+  { "title": "Career Tips for Developers", "content": "Keep learning, build projects, and stay updated with new technologies to grow successfully in your career.", "user_id": 2 }
+]
